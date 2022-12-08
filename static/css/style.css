@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    padding-top: 23px;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #cccccc;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 10px 10px 10px;
+}
+
+.login button {
+    background-color: #2b78e4;
+    color: white;
+    height: 29px;
+    width: 69px;
+}
+
+.trece-likes {
+    border: 1px solid black;
+    height: 164px;
+    width: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    margin-bottom: 19px;
+}
+
+.desaparecer-boton {
+    float: right;
+    border: 1px solid black;
+    margin-right: 30px;
+    width: 208px;
+    padding: 20px;
+    height: 94px;
+    height: 103px;
+}
+
+.a-practitioner {
+    margin-top: 54px;
+}
+
+.a-practitioner p {
+    float: right;
+}
+
+.ninja {
+    height: 100px;
+    width: 127px;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+    text-align: center;
+}
+
+.ninja button {
+    background-color: #ffd966;
+    height: 29px;
+    width: 99px;
+    margin-top: 5px;
+}
+
+.desaparecer-boton h4 {
+    font-size: x-large;
+}
+
+.desaparecer-boton button {
+    height: 44px;
+    width: 192px;
+    margin-top: 8px;
+    background-color: #93c47d;
+}
